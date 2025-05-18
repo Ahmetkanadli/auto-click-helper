@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto Click Helper</string>
+    <string name="accessibility_service_description">Bu hizmet video izlerken çıkan onay mesajlarını otomatik olarak onaylar</string>
+    <string name="service_running">Servis Çalışıyor</string>
+    <string name="service_stopped">Servis Durduruldu</string>
+    <string name="start_service">Servisi Başlat</string>
+    <string name="stop_service">Servisi Durdur</string>
+    <string name="notification_title">Auto Click Yardımcısı</string>
+    <string name="notification_text">Arka planda çalışıyor</string>
+</resources>
